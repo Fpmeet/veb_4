@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+    background-color: black;
+    height: 15px;
+}
+
+aside {
+    width: 150ox;
+    font-size: 10px;
+    position: fixed;
+    right: 0px;
+    top: 25%;
+    color:white;
+    background-color: rgb(0, 0, 160);
+}
+
+.animal {
+    width: 90%;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}

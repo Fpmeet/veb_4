@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:#AFEEEE ;
+}
+h1{
+  color:#FFA500 ;  
+}
+footer{
+ background-color:#FFC0CB ; 
+ padding: 5px;
+}
+
+.foot{
+  background-color: white;
+  padding: 3px;
+}
+h2{
+  background-color: Magenta;
+  color: Lavender;  
+}
+.prod{
+background-color:Violet ;
+border:3px solid DarkMagenta ;
+border-radius: 10px;
+}
+.cortel{
+  border: 5px solid MediumPurple;
+  border-radius: 20px;
+}
