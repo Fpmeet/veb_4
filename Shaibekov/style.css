@@ -1,1 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: greenyellow;
+ 
+}
+
+header a{
+  border: 5px solid crimson;
+  padding: 10px;
+  color: blue;
+}
+
+p{
+    background-color: black;
+    color: white;
+    border: 2px solid crimson;
+    background-image: linear-gradient(black, green, white);
+}
+
+header a:hover{
+  background-color: crimson;
+  transition: background-color 3s linear;
+}
 
