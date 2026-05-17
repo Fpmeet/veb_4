@@ -1,1 +1,35 @@
-
+body {
+    font-family: sans-serif;
+    background-color: black;
+    border:2px solid red ;
+}
+h1{
+    color: white;
+    border: 2px solid red;
+}
+li{
+    color: white;
+    border:2px solid red ;
+}
+img{
+    border:4px double red ;
+}
+h2{
+    color: white;
+    border:2px solid red;
+}
+a{
+border:2px solid red;
+text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+ul{
+    color: white;
+    border:2px solid red ;
+}
+p{
+   color: white; 
+    border:2px solid red ;
+}
