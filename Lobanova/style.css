@@ -1,1 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-image: linear-gradient( #FF00FF ,Red);
+    color: brown;
+    box-shadow: 20px 15px 0 0 black;
+}
+h1:hover{
+    background-image: linear-gradient(red, #FFFF00);
+}
+
+li{
+    color: blue;
+    background-color: #FFFF00;
+}
+
+li:hover{
+    background-color: aqua;
+    color: #FF00FF;
+    transition: all 3s liner;
+}
+section{
+    background-color: khaki;
+    border:10px double orangered;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 70px;
+
+}
+footer{
+    background-color: aquamarine;
+    border:6px solid goldenrod;
+    border-radius: 30px;
+   
+}
+header{
+    border: 7px dotted gold;
+    background-image: linear-gradient(green,pink);
+    border-radius: 40px;
+
+}
+social{
+    box-shadow: 10px 10px 0 0 black;
+}
+
+
 
