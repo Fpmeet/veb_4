@@ -1,12 +1,45 @@
 body {
     font-family: sans-serif;
-}
+    background-color:black ;
+    color:white;
+    border:2px solid rgb(0, 255, 21);
+    background-image:linear-gradient(:black,blue);
 
+
+}
 
 p{
-    background-color: black;
-    color: white;
-    border: 2px solid red;
-    background-image: linear-gradient(black, grey);
-    
+    background-color:black ;
+    color:white;
+    border:2px solid rgb(0, 255, 21);
+    background-image:linear-gradient(:black,blue);
+
+
 }
+ul{
+    background-color:black ;
+    color:white;
+    border:2px solid rgb(0, 255, 21);
+    background-image:linear-gradient(:black,blue);
+
+}
+li{
+    color:white;
+    border:2px solid rgb(0, 255, 21);
+    background-image:linear-gradient(:black,blue);
+
+}
+h1{
+    background-color:black ;
+    color:white;
+    border:2px solid rgb(0, 255, 21);
+    background-image:linear-gradient(:black,blue);
+
+
+}
+h4{
+    background-color:black ;
+    color:rgb(255, 255, 255);
+    border:2px solid rgb(0, 255, 21);
+    background-image:linear-gradient(:black,blue);
+
