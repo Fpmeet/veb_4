@@ -1,1 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+ul {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border: 3px solid red;
+    background-image: linear-gradient(green, rgb(0, 0, 0));
+}
+
+P {
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+    background-image: linear-gradient(black, blue);
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    border: 3px solid red;
+    background-image: linear-gradient(green, rgb(0, 0, 0))
+}
+
+a {
+    color: white;
+}
+
+.picture {
+    border: 3px solid red;
+}
+
+label  {
+    color: white;
+}
+
+
+
+
 
