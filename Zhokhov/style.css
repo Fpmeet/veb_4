@@ -1,1 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: #a3b8ee
+;
+}
 
+h1 {
+    font-family:monospace;
+    color: #04346C	
+}
+
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #225fee
+;
+}
+
+ul img {
+    border: 5px solid #627FC4	;
+    border-radius: 15px;
+}
+
+a:hover {
+    color: 	#2d4886	;
+}
+
+p {
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
